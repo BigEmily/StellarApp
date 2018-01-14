@@ -23,3 +23,30 @@ please install dependencies according to the above link. One can then go Stellar
 
 https://github.com/stellar/stellar-core/blob/master/README.md
 
+
+## how to do operations on Stellar by Python
+
+https://www.stellar.org/developers/reference/
+
+## test App
+
+https://gostellar.org/app/
+
+## Stellar operations
+
+https://www.stellar.org/developers/guides/concepts/list-of-operations.html
+
+
+    Create Account
+    Payment
+    Path Payment
+    Manage Offer
+    Create Passive Offer
+    Set Options
+    Change Trust
+    Allow Trust
+    Account Merge
+    Inflation
+    Manage Data
+
+
